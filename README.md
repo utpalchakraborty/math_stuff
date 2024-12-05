@@ -13,3 +13,7 @@ Contains simple code to generate the following visualizations using nothing but 
 ### [Catenoid](shapes/catenoid.md)
 
 ![catenoid](images/catenoid.png)
+
+### [Enneper Surface](shapes/enneper.md)
+
+![Enneper Surface](images/enneper.png)
